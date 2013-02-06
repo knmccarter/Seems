@@ -1,0 +1,20 @@
+.background {
+  background-image: -webkit-gradient(linear, left top, left bottom, 
+    color-stop(0, #FFFFFF), color-stop(1, #200010));
+}
+
+.name {
+  text-align:left;
+  color:#200019;
+  font-size:18pt;
+}
+
+.content {
+  float:bottom;
+}
+
+.credits {
+  color:#D8DAF3;
+  background-color:#200010;
+  float:right;
+}
